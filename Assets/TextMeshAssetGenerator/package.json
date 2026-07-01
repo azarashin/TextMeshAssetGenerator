@@ -1,0 +1,20 @@
+{
+    "name": "com.azarashin.textmesh-asset-generator",
+    "version": "1.0.0",
+    "displayName": "TextMesh Asset Generator",
+    "description": "Editor utility for generating TextMesh Pro font assets from configured character sources.",
+    "unity": "2022.3",
+    "author": {
+        "name": "azarashin"
+    },
+    "dependencies": {
+        "com.unity.textmeshpro": "3.0.6"
+    },
+    "keywords": [
+        "textmeshpro",
+        "font",
+        "webgl",
+        "japanese",
+        "editor"
+    ]
+}
